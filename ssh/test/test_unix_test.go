@@ -21,8 +21,8 @@ import (
 	"testing"
 	"text/template"
 
-	"github.com/btcsuite/golangcrypto/ssh"
-	"github.com/btcsuite/golangcrypto/ssh/testdata"
+	"github.com/FactomProject/golangcrypto/ssh"
+	"github.com/FactomProject/golangcrypto/ssh/testdata"
 )
 
 const sshd_config = `
